@@ -6,5 +6,8 @@ NODEJS SMIPLE WEBSITE
 git clone https://github.com/ShineShineDev/Node.js-smiple-website-with-piping.git
 
 
+## Usage 
+- http module
+- fs module 
 
 <img src="https://github.com/ShineShineDev/Node.js-smiple-website-with-piping/blob/master/app.png"/>
