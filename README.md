@@ -3,8 +3,14 @@ NODEJS SMIPLE WEBSITE
 
 
 ## install
+```
 git clone https://github.com/ShineShineDev/Node.js-smiple-website-with-piping.git
+```
 
+## run
+```
+node app
+```
 
 ## Usage 
 - http module
